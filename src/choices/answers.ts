@@ -4,6 +4,6 @@
  * exmaple { "c01": "A" }
  */
 export const answers = {
-  "c01": "D",
+  "c01": "C",
   "c02": "B",
 }
